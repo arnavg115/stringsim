@@ -6,7 +6,7 @@ setuptools.setup(
     version="0.0.1",
     author="Arnav G",
     author_email="soccercream20@gmail.com",
-    description="A package that uses other algorithms for fuzzy searching",
+    description="A package that uses other algorithms for fuzzy matching",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/arnavg115/stringsim",
