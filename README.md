@@ -1,4 +1,4 @@
-# String similarity using fuzzy matching
+# Stringsim
 ## What is it?
 This is a fuzzy matching algorithm like fuzzywuzzy, but instead of using only one algorithm this uses 3 with a composite score available as well as access to use any of the algorithms.
 ## Installation
