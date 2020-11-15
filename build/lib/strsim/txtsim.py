@@ -65,9 +65,6 @@ def cossim(vect1,vect2,mag1,mag2,num):
     j = d/prodmag
     return j
 def comp(str, lst):
-    '''
-    This finds the best match of string in this case str in a list (lst) and it returns a los t
-    '''
     l1 = []
     dict1 = {}
     ng = ngramgen(str,2)

@@ -1,1 +1,1 @@
-stringsim
+strsim

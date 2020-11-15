@@ -1,8 +1,8 @@
 README.md
 setup.py
-stringsim/__init__.py
-stringsim/txtsim.py
 stringsim.egg-info/PKG-INFO
 stringsim.egg-info/SOURCES.txt
 stringsim.egg-info/dependency_links.txt
 stringsim.egg-info/top_level.txt
+strsim/__init__.py
+strsim/txtsim.py
